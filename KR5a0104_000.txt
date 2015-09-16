@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:37:28.955190
+# -*- mode: mandoku-view -*-
 #+TITLE: 玉清無極總真文昌大洞仙經
-#+PROPERTY: DZID  DZ0103
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—597 十卷 洞真部玉訣類
+#+DATE: 2015-08-28 23:37:38
+#+PROPERTY:  LASTPB <PB KR5a0104_SJB_009-020693a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶
+
